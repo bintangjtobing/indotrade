@@ -37,7 +37,6 @@
   <link href="js/owl-carousel/owl.carousel.css" rel="stylesheet">
   <link href="js/owl-carousel/owl.theme.css" rel="stylesheet">
   <link rel="stylesheet" type="text/css" href="js/cubeportfolio/cubeportfolio.min.css">
-
   <!-- Template's stylesheets END -->
 
   <!--[if lt IE 9]>
