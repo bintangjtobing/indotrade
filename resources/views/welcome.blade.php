@@ -4,10 +4,10 @@
 <head>
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <title>Biksy | Business HTML5 Template </title>
-  <meta name="keywords" content="themeforest template" />
-  <meta name="description" content="best responsive html template in themeforest">
-  <meta name="author" content="codelayers">
+  <title>Indotrade Asia </title>
+  <meta name="keywords" content="Indotrade Asia" />
+  <meta name="description" content="Indotrade Asia">
+  <meta name="author" content="Bintang Tobing">
 
   <!-- Mobile view -->
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
